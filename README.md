@@ -60,5 +60,4 @@ See [CONTRIBUTING.md](https://github.com/JohnPaulHernandezAlcala/Movie_Analysis/
 # License
 See [LICENSE.md](https://github.com/JohnPaulHernandezAlcala/Movie_Analysis/blob/master/LICENSE.md)
 
-## Project status
-Completed.
+#### -- Project Status: [Active]
