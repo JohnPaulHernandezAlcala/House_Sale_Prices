@@ -1,7 +1,7 @@
-# Film Industry Analysis & Insights
+# House Price Analysis & Insights
 
 ## Description 
-This project gives a better understanding of the movie industry. A presentation that summarizes what type of films do the best at the box office is also included here. Findings from both the project and presentation are translated into actionable insights anyone can use when deciding what type of films to create.
+This project gives a better understanding of house prices. A presentation that discusses at least two concrete features that highly influence housing prices is inlcuded. Findings from both the project and presentation are for people interested in maximizing their profit when selling their home
 
 
 ## Where to Start First:
@@ -60,5 +60,4 @@ See [CONTRIBUTING.md](https://github.com/JohnPaulHernandezAlcala/Movie_Analysis/
 # License
 See [LICENSE.md](https://github.com/JohnPaulHernandezAlcala/Movie_Analysis/blob/master/LICENSE.md)
 
-## Project status
-Completed.
+#### -- Project Status: [Active]
