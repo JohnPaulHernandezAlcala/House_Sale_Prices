@@ -16,7 +16,7 @@ NOTE: For full navigation abilities, open up Table of Content in Jupyter Noteboo
 With all the features, we built a model with multiple linear regression. This model was evaluated for performance and found to have an accuracy of 83.45% and a high precision (low error). Because of the high accuracy and precision of this model, we can identify three concrete features (also known as coefficients) that highly influence housing prices: Bathrooms, Grade and Zip Code.
 
 ### Bar Graph of Model's Performance
-![Price Vs Model Prediction Price](https://github.com/JohnPaulHernandezAlcala/House_Sale_Prices/blob/master/RealActualVsPrediction.png)
+![Price Vs Model Prediction Price](https://github.com/JohnPaulHernandezAlcala/House_Sale_Prices/blob/master/RealActualVsPredictionWRsquared.png)
 
 ### Model's Error
 ![Model Error](https://github.com/JohnPaulHernandezAlcala/House_Sale_Prices/blob/master/results.PNG)
