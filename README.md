@@ -7,7 +7,7 @@ This project gives a better understanding of house prices. A presentation that i
 
 ## Where to Start First:
 
-### 1. Access the [Table of Content](https://github.com/JohnPaulHernandezAlcala/House_Sale_Prices/blob/master/Table%20of%20Content.ipynb) for navigation and a breakdown of the analysis process.
+### 1. Access the [Table of Content](https://nbviewer.jupyter.org/github/JohnPaulHernandezAlcala/House_Sale_Prices/blob/master/Table%20of%20Content.ipynb) for navigation and a breakdown of the analysis process.
 NOTE: For full navigation abilities, open up Table of Content in Jupyter Notebook.
 ### 2. Follow along with the coding narrative and comments.
 ### 3. Preview the uploaded presentation, [House Price Analysis & Insights](https://github.com/JohnPaulHernandezAlcala/House_Sale_Prices/blob/master/House%20Price%20Analysis%20%26%20Insights.pdf).
